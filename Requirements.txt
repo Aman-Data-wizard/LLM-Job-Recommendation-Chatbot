@@ -1,0 +1,6 @@
+Gradio
+pandas
+requests
+python-dotenv
+
+//.venv/scripts/activate

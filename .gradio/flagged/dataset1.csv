@@ -1,0 +1,3 @@
+Enter your skills (comma separated),output,timestamp
+Python,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",2026-02-04 22:53:56.712770
+"python, sql,excel","{""headers"": [""Job Title"", ""Company"", ""Location"", ""Matched Skills""], ""data"": [], ""metadata"": null}",2026-02-06 22:33:52.866601

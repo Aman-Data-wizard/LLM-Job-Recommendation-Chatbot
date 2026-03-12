@@ -1,0 +1,11 @@
+"Job ID	Job Title	Role	Skills	Experience	Location	Company",,,
+"1	Data Analyst	Data Analyst	""Python", SQL, Excel," Data Visualization""	Fresher	Remote	ABC Analytics"
+"2	Junior Data Analyst	Data Analyst	""SQL", Excel," Power BI""	0–1 years	India	DataCorp",
+"3	Python Developer	Software Developer	""Python", OOP," Git""	Fresher	Bangalore	TechSoft",
+"4	Software Tester	Tester	""Manual Testing", Test Cases," SDLC""	Fresher	India	QA Solutions",
+"5	Automation Test Engineer	Tester	""Selenium", Java," Automation Testing""	1–2 years	Pune	TestPro",
+"6	Machine Learning Intern	ML Intern	""Python", Pandas," Scikit-learn""	Fresher	Remote	AI Labs",
+"7	Backend Developer	Software Developer	""Python", Django," REST API""	1–2 years	Hyderabad	WebWorks",
+"8	Data Science Intern	Data Science	""Python", Statistics," Machine Learning""	Fresher	Remote	Insight AI",
+"9	SQL Developer	Database	""SQL", Database Design," MySQL""	0–1 years	India	DB Tech",
+"10	Business Analyst	Business Analyst	""Excel", SQL," Requirement Analysis""	Fresher	Delhi	BizCorp",
