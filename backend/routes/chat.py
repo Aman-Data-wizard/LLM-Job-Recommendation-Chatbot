@@ -62,7 +62,8 @@ async def chat(request: ChatRequest) -> ChatResponse:
     try:
         cache_key = f"jobs:{query}:{location}"
 
-        jobs = await get_cache(cache_key)
+        #jobs = await get_cache(cache_key)
+        jobs = None
 
         if not jobs:
             jobs = await fetch_jobs_async(
